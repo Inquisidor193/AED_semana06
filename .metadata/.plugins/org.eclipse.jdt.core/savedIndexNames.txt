@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+E:\Cibertec\Algoritmia\AED_Semana_06_Lab\.metadata\.plugins\org.eclipse.jdt.core
+14526675.index
+1552322027.index
+3665362233.index
+1865797976.index
+2210424516.index
+3314539601.index

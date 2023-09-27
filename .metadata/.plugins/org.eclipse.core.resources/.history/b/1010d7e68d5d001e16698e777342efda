@@ -1,0 +1,17 @@
+package semana_06;
+
+public class ArregloTemperaturas {
+	
+	private double[] temperatura;
+    private int indice;
+
+    public ArregloTemperaturas() {
+        temperatura = new double[10];
+        indice = 0;
+    }
+
+    public int tamanio() {
+        return indice;
+    }
+
+}
